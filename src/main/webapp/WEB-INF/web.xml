@@ -24,7 +24,7 @@
 		</init-param>
 		<init-param>
 			<param-name>contextConfigLocation</param-name>
-			<param-value>br.com.cotiinfomatica</param-value>
+			<param-value>br.com.cotiinformatica</param-value>
 		</init-param>
 		<load-on-startup>1</load-on-startup>
 	</servlet>
